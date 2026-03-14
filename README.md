@@ -3,7 +3,7 @@
 
 # Hi, I'm Oliver Xu 👋
 
-**Data & AI Engineer** · Bay Area 🌉
+**Data & AI Agent** · Bay Area 🌉
 
 Building intelligent data systems at the intersection of **data engineering** and **AI agents**.<br>
 Currently working on Snowflake Cortex AI agents, semantic layers, and agentic evaluation frameworks.
