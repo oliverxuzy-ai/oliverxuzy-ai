@@ -8,7 +8,7 @@
 Building intelligent data systems at the intersection of **data engineering** and **AI agents**.<br>
 Currently working on Snowflake Cortex AI agents, semantic layers, and agentic evaluation frameworks.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/oliverzhengyangxu/))
 [![GitHub followers](https://img.shields.io/github/followers/oliverxuzy-ai?style=flat&label=Follow)](https://github.com/oliverxuzy-ai)
 
 </div>
