@@ -87,5 +87,5 @@ Currently working on Snowflake Cortex AI agents, semantic layers, and agentic ev
 ---
 
 <div align="center">
-<sub>Last updated: 2026 · Built with ❤️ and too much Snowflake SQL</sub>
+<sub>Last updated: 2026 · Built with ❤️ and too much Claude </sub>
 </div>
